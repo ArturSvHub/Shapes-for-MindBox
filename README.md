@@ -13,7 +13,7 @@ Add the following lines to the relevant sections of `Program.cs` or your custom 
 ```cs
 using Shapes.BaseImplement;
 ```
-When creating a shape, you need to inherit the abstract Shape class and override the necessary methods.
+If you want to create a new shape class, you need to inherit the abstract Shape class and override the necessary methods.
 ```cs
 public class Rectangle : Shape
     {
