@@ -9,7 +9,9 @@ namespace Shapes.Implements
     /// </summary>
     public class Triangle : Shape
     {
-        
+        /// <value>
+        /// The geometric type of the triangle.
+        /// </value>
         public string TriangleType { get; }
         public double FirstSide { get; }
         public double SecondSide { get; }

@@ -14,6 +14,7 @@ namespace ShapesLibDemo
             Console.WriteLine(tr);
             Console.WriteLine("\n");
             Console.WriteLine(rect);
+            Console.WriteLine(tr.TriangleType);
         }
     }
 }
