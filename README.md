@@ -58,6 +58,8 @@ public override IShapeType Type { get; protected set; }
         }
 ```
 -----------------------------------------------------------------------------------------------------
+The necessary request is located at the [link:](https://github.com/ArturSvHub/Shapes-for-MindBox/blob/master/TestAppForSQLPart/SQLQuery.sql)
+You can check this request for correctness in the ```TestAppForSQLPart``` project by assigning it to be run in the solution.
+A similar linq query will output the same result by reference ```https://localhost:[your port]/getquery```  on the running localhost project app.
 
-
-        
+Thanks for watching.
